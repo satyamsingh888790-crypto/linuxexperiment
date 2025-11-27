@@ -12,5 +12,5 @@ do
 	fn=$((a + b))
 	a=$b
 	b=$fn
-don
+done
 echo
