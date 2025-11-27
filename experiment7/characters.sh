@@ -10,7 +10,7 @@ factorial () {
 	echo $fact
 }
 
-echo "Factorial of 5 is: $(factorial 5)"
+cho "Factorial of 5 is: $(factorial 5)"
 echo "Factorial of 7 is: $(factorial 7)"
 echo "Factorial of 10 is: $(factorial 10)"
 
