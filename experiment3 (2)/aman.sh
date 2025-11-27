@@ -1,1 +1,1 @@
-echo"satyam is such a nice person"
+echo"satyam singh is such a nice person"
