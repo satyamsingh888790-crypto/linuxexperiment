@@ -3,7 +3,7 @@
 **Course:** Linux Shell Scripting Lab
 **Experiment Number:** 9
 **Date:** [27:09:2025]
-**Submitted by:** [Aman Barnwal]
+**Submitted by:** [satyam singh]
 
 ## 1. Procedure
 All commands and scripts executed are in this folder. Key scripts:
