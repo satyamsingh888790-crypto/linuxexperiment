@@ -3,7 +3,7 @@
 **Course:** Linux Shell Scripting Lab
 **Experiment Number:** 8
 **Date:** [23:09:2025]
-**Submitted by:** [Aman Barnwal]
+**Submitted by:** [satyam singh]
 
 ## 1. Procedure
 - comparetwofiles.sh
