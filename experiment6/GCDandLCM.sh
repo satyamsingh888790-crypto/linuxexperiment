@@ -16,3 +16,4 @@ lcm=$(( (a * b) / gcd ))
 
 echo "GCD: $gcd"
 echo "LCM: $lcm"
+fi
